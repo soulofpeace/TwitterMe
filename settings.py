@@ -1,0 +1,1 @@
+logFile='logs/twitterClient.log'
